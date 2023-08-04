@@ -1,4 +1,5 @@
 Q1. What is Statistics?
+
 Ans:Statistics is a branch of mathematics and a scientific discipline that involves the collection, organization, analysis, interpretation, and presentation of data. It deals with the study of data and provides methods to extract meaningful insights and draw conclusions from the data. Statistics is widely used in various fields, including science, business, economics, social sciences, and data science.
 The main objectives of statistics are:
 Describing data: Summarizing and presenting data in a meaningful way, such as through tables, graphs, and numerical measures like mean, median, and standard deviation.
@@ -9,6 +10,7 @@ Hypothesis testing: Making decisions about a population based on sample data whi
 
 
 Q2. Define the different types of statistics and give an example of when each type might be used.
+
 Ans:Descriptive Statistics: Descriptive statistics summarize and describe data in a meaningful way, providing insights into its central tendencies and variations.
 Example: Calculating the average (mean) height of students in a class or creating a pie chart to show the distribution of car colors in a parking lot.
 
@@ -17,6 +19,7 @@ Example: Conducting a survey on a sample of voters to predict the election outco
 
 
 Q3. What are the different types of data and how do they differ from each other? Provide an example of each type of data.
+
 Ans:Qualitative Data:
 Definition: Qualitative data is non-numeric information that describes qualities or characteristics, typically represented by labels or categories.
 Example: Types of fruit in a basket (e.g., apple, banana, orange). The data is descriptive and does not involve numerical values.
@@ -27,20 +30,31 @@ Example: Heights of students in a classroom (e.g., 160 cm, 170 cm, 155 cm). The 
 
 
 Q4. Categorise the following datasets with respect to quantitative and qualitative data types:
+
 (i) Grading in exam: A+, A, B+, B, C+, C, D, E 
+    
+    
     Data Type: Qualitative
 
 (ii) Colour of mangoes: yellow, green, orange, red
+   
+    
     Data Type: Qualitative
 
 (iii) Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...]
+    
+    
     Data Type: Quantitative
 
 (iv) Number of mangoes exported by a farm: [500, 600, 478, 672, ...]
+    
+    
     Data Type: Quantitative
 
 
 Q5. Explain the concept of levels of measurement and give an example of a variable for each level.
+
+
 Ans: Levels of measurement, also known as scales of measurement, refer to the different ways in which data can be classified or categorized based on the properties of the data. There are four levels of measurement: nominal, ordinal, interval, and ratio. These levels dictate the types of operations that can be performed on the data and the level of information they provide.
 
 Nominal Level:
@@ -71,6 +85,8 @@ If we had ratio data, like the number of years of education completed, we could 
 
 
 Q7. How nominal data type is different from ordinal data type.
+
+
 Ans: Nominal data and ordinal data are both categorical data types, but they differ in terms of the properties and characteristics they possess:
 
 Nominal Data:
@@ -85,10 +101,13 @@ Example: Educational levels (e.g., high school, bachelor's degree, master's degr
 
 
 Q8. Which type of plot can be used to display data in terms of range?
+
+
 Ans:A box plot (also known as a box-and-whisker plot) is commonly used to display data in terms of range. It provides a visual representation of the distribution of a dataset and shows the median, quartiles, and any potential outliers.
 
-Q9. Describe the difference between descriptive and inferential statistics. Give an example of each
-type of statistics and explain how they are used.
+Q9. Describe the difference between descriptive and inferential statistics. Give an example of eachtype of statistics and explain how they are used.
+
+
 Ans:Descriptive Statistics:
 
 Definition: Descriptive statistics involves methods for summarizing, organizing, and presenting data in a meaningful way. It provides insights into the main features of the data and allows researchers to understand the data's central tendencies and variations.
@@ -106,8 +125,9 @@ Example: Suppose a company wants to know if there is a significant difference in
 Use: Inferential statistics are crucial for decision-making and hypothesis testing. By using sample data to draw inferences about the population, researchers can make predictions, test hypotheses, and assess the effectiveness of interventions or treatments.
 
 
-Q10. What are some common measures of central tendency and variability used in statistics? Explain
-how each measure can be used to describe a dataset.
+Q10. What are some common measures of central tendency and variability used in statistics? Explain how each measure can be used to describe a dataset.
+
+
 Ans:Measures of Central Tendency:
 Mean:
 Definition: The mean is the average of all the data points in a dataset. It is calculated by summing up all the values and dividing by the number of data points.
